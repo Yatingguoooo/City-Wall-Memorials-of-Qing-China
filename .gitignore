@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+models/qing_citywall_model/pytorch_model.bin
+models/qing_citywall_model/model.safetensors
+
+!data/processed.xlsx
+!data/noise_terms.xlsx
