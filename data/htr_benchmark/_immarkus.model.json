@@ -1,0 +1,56 @@
+{
+  "entityTypes": [
+    {
+      "color": "#f799df",
+      "id": "Text_Line",
+      "properties": [
+        {
+          "name": "Line_Status",
+          "type": "enum",
+          "values": [
+            "Ghost_Line",
+            "Matched",
+            "Missed_Line"
+          ],
+          "description": "正常匹配行：AI 找到了这一行，但里面可能有错别字;整行漏检：原图有，AI 完全没识别。对应公式中的SA*;整行误检：原图没有，AI 凭空编了一行。对应公式中的SR*"
+        },
+        {
+          "name": "N_total_line",
+          "type": "number",
+          "description": "计算公式的分母Ntotal*,这一列原图实际有多少个汉字。如果是 AI 凭空多检的行,这里填0"
+        },
+        {
+          "name": "Insertion_Count",
+          "type": "number",
+          "description": "对应公式中的Nle*，如果是match，就填这一行内AI多认了几个字；如果是ghost，直接填AI凭空认出的总字数；如果是missed，就填0"
+        },
+        {
+          "name": "Deletion_Count",
+          "type": "number",
+          "description": "对应公式中的NDe*，match数一数这一行内AI漏认了几个字；missed直接填原图这一列原本的总字数；ghost填0"
+        },
+        {
+          "name": "Substitution_Count",
+          "type": "number",
+          "description": "数一数这一行内AI认错（字形对不上）的字数。"
+        },
+        {
+          "name": "Error_Pathology",
+          "type": "enum",
+          "multiple": true,
+          "values": [
+            "Confusion_Pairs",
+            "Layout_Interference_Text",
+            "Model_Omission",
+            "None",
+            "Segmentation_Failure",
+            "Variant_Rare_Characters"
+          ]
+        }
+      ]
+    }
+  ],
+  "folderSchemas": [],
+  "imageSchemas": [],
+  "relationshipTypes": []
+}
