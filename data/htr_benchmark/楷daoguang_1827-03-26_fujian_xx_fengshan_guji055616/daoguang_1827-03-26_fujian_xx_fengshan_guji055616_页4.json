@@ -1,0 +1,70 @@
+[
+  {
+    "id": "4ab85830-ae26-40b2-a1a5-99b6f765f4b8",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055616_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3793.6359795340054,747.9251717610258,119.05704744512695,1574.18313478019"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "092250bd-c612-4838-8d1a-f984b4342123",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 16,
+          "Error_Pathology": "None"
+        },
+        "created": "2026-06-24T19:25:50.723Z",
+        "modified": "2026-06-24T19:25:54.397Z"
+      }
+    ],
+    "created": "2026-06-24T19:25:49.871Z",
+    "creator": {
+      "isGuest": true,
+      "id": "YbI7RHNU5Ifww7J_VutZ"
+    }
+  },
+  {
+    "id": "293fa341-b0d6-43bc-a34b-b76aeda9d2b4",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055616_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3588.2020313170656,742.1576035897838,143.14190468890592,343.9501697016992"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "b8d8cb57-01bd-4f46-93fe-08aac4ea0752",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 3,
+          "Error_Pathology": "None"
+        },
+        "created": "2026-06-24T19:25:58.700Z",
+        "modified": "2026-06-24T19:26:02.275Z"
+      }
+    ],
+    "created": "2026-06-24T19:25:57.751Z",
+    "creator": {
+      "isGuest": true,
+      "id": "YbI7RHNU5Ifww7J_VutZ"
+    }
+  }
+]

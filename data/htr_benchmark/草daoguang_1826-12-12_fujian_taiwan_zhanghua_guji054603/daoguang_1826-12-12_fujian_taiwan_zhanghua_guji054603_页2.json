@@ -1,0 +1,724 @@
+[
+  {
+    "id": "36b77612-1f6e-434d-9613-ec2a8f964c95",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3430.2031161743407,122.6579964330663,106.1605729166663,2487.6800000000003"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "6dcddc2e-9d50-427c-a368-faab2120ba96",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 20,
+          "Insertion_Count": 0,
+          "Deletion_Count": 3,
+          "Substitution_Count": 10,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:24:14.038Z",
+        "modified": "2026-06-24T00:24:31.307Z"
+      }
+    ],
+    "created": "2026-06-24T00:24:12.430Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "4bce21d4-e79f-4871-8b36-09adee2b677a",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3238.8076264957353,161.49129289343523,148.50983994658463,2441.2847122095122"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "4c1a99fc-5391-491a-865e-1e08756d16ed",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 9,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:24:47.451Z",
+        "modified": "2026-06-24T00:25:13.297Z"
+      }
+    ],
+    "created": "2026-06-24T00:24:46.510Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "603bc866-ad7f-43f1-8e61-b0d52cd53bcb",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3062.184028323195,165.13609538868138,164.58081249999987,2473.0850625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "80b51026-ad8e-4834-b490-a8718c121310",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 20,
+          "Insertion_Count": 0,
+          "Deletion_Count": 7,
+          "Substitution_Count": 10,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure",
+            "Model_Omission"
+          ]
+        },
+        "created": "2026-06-24T00:25:26.204Z",
+        "modified": "2026-06-24T00:25:52.409Z"
+      }
+    ],
+    "created": "2026-06-24T00:25:24.698Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "05c3026d-7dfc-487a-b79d-eae0f8391b8e",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2820.180903323195,428.92884538868134,153.7794375000003,2189.4648749999997"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "cc01cd01-d82c-4217-a51c-8f2f3e643273",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 1,
+          "Deletion_Count": 1,
+          "Substitution_Count": 8,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:26:03.371Z",
+        "modified": "2026-06-24T00:26:21.190Z"
+      }
+    ],
+    "created": "2026-06-24T00:26:02.492Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "bd0cb6a6-b24b-4ec6-b4a5-6600787b3891",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2625.1955283231946,438.1417828886813,146.93981250000024,2187.1709083448177"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "1b82464a-e216-4b3b-9ce9-b17d6d0181b3",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 6,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:26:31.458Z",
+        "modified": "2026-06-24T00:26:56.196Z"
+      }
+    ],
+    "created": "2026-06-24T00:26:30.292Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "f71363a4-8769-499a-949b-6b42ba74d7b3",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2412.344903323195,387.23703288868137,200.47949999999992,2260.51475"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "3f3ed21e-b050-4e06-8a81-da94861597bc",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 20,
+          "Insertion_Count": 0,
+          "Deletion_Count": 2,
+          "Substitution_Count": 8,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:27:06.338Z",
+        "modified": "2026-06-24T00:27:23.516Z"
+      }
+    ],
+    "created": "2026-06-24T00:27:05.256Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "6cfd0b3d-c409-43df-9e39-dd90a98be351",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2214.6793895033725,418.0115367589379,156.12422369505657,2211.0894270833332"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "9c18d73f-b86c-4dc2-9e46-afb8251a7ee8",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 17,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 8,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:27:34.601Z",
+        "modified": "2026-06-24T00:27:49.168Z"
+      }
+    ],
+    "created": "2026-06-24T00:27:33.649Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "bebd721c-d937-446c-a3c4-60faf0745d64",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2023.698873615096,412.5610159256044,153.95385416666704,2153.8589583333332"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "5adeb378-acc2-4de7-8640-2c0e6bb17e10",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 1,
+          "Deletion_Count": 0,
+          "Substitution_Count": 4,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:28:00.638Z",
+        "modified": "2026-06-24T00:28:16.029Z"
+      }
+    ],
+    "created": "2026-06-24T00:27:59.475Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "b5cf31f9-4837-4204-af1a-0d7150ed7376",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1806.4499198809342,420.1251197279487,187.67401723135436,2181.9586085670694"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "e9d0a882-60c2-493a-a681-0ceb42bacfa6",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 20,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 15,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure",
+            "Model_Omission"
+          ]
+        },
+        "created": "2026-06-24T00:28:33.110Z",
+        "modified": "2026-06-24T00:28:57.217Z"
+      }
+    ],
+    "created": "2026-06-24T00:28:32.316Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "85687c49-8b4f-490a-9e86-9457c7e09fda",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1596.7673631984303,386.14934925893783,174.74369791666686,2179.5075520833334"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "7c857ea6-0bf0-4b6b-8cac-3ff6c041d4d5",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 16,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 7,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:29:11.004Z",
+        "modified": "2026-06-24T00:29:26.261Z"
+      }
+    ],
+    "created": "2026-06-24T00:29:09.936Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "de800cc3-e8b8-49b0-860e-949ecede867a",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1407.8211652817638,393.811224258938,167.2686979166665,2205.529895833333"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "ae4ce448-75e7-4511-8fbf-1b114aa33273",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 15,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:29:36.691Z",
+        "modified": "2026-06-24T00:29:53.643Z"
+      }
+    ],
+    "created": "2026-06-24T00:29:35.723Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "33b4d690-6acb-472b-b2dd-b218969d54b9",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1230.5546548650973,397.0434308755745,128.39869791666683,1226.2807100500302"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "34c61f73-2431-4e70-92fd-ea43afd8767a",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 9,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 5,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:30:00.654Z",
+        "modified": "2026-06-24T00:30:13.103Z"
+      }
+    ],
+    "created": "2026-06-24T00:29:59.590Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "55a08cfe-f5d6-49df-86b4-11ee5cbacda7",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1031.5327798650965,117.11164092560504,142.05693422544755,2486.5146119734477"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "475e98f9-f929-4d46-9b3f-9b863f2ae623",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 0,
+          "Deletion_Count": 3,
+          "Substitution_Count": 9,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:30:23.297Z",
+        "modified": "2026-06-24T00:30:44.495Z"
+      }
+    ],
+    "created": "2026-06-24T00:30:22.376Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "df0d86d6-10b6-4894-8b05-2fa7612c4d3e",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:825.0826236150964,390.2917450922717,168.23421874999997,2223.7657812499997"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "ed05b914-930e-49e9-95f6-c7c04d2e3bf7",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 2,
+          "Substitution_Count": 7,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:30:54.484Z",
+        "modified": "2026-06-24T00:31:27.257Z"
+      }
+    ],
+    "created": "2026-06-24T00:30:53.421Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "79cb75da-a50b-449e-9bef-a230af96a41c",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:621.4231340317644,430.71903675893753,177.344375,2144.7270000000003"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "0ec26380-ec0d-405b-9cf7-36cf869811b0",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 17,
+          "Insertion_Count": 0,
+          "Deletion_Count": 2,
+          "Substitution_Count": 8,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:31:37.178Z",
+        "modified": "2026-06-24T00:31:55.045Z"
+      }
+    ],
+    "created": "2026-06-24T00:31:36.025Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "91bfd734-d498-4a52-bdc9-a4afe816652e",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:447.0500715317644,393.1384742589376,137.44656250000014,2213.2353749999997"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "0417dae2-935b-4500-88de-5a4252487553",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 17,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 5,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:32:10.231Z",
+        "modified": "2026-06-24T00:32:26.743Z"
+      }
+    ],
+    "created": "2026-06-24T00:32:09.063Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "ad6e0255-308a-4cd2-babc-e70cd97140a5",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:216.05336212248477,387.3066001794816,195.45308440928,2213.647874079456"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "aac55da0-fa9c-4fbf-9b28-85b30cd5a3f5",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 17,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 8,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:32:41.931Z",
+        "modified": "2026-06-24T00:33:01.185Z"
+      }
+    ],
+    "created": "2026-06-24T00:32:40.557Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  },
+  {
+    "id": "0f83afaa-4526-49d3-b915-4e08251da586",
+    "target": {
+      "source": "daoguang_1826-12-12_fujian_taiwan_zhanghua_guji054603_页2.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:48.85682153176455,415.50741175893745,145.31400000000014,2144.241125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "81890aca-cc60-462d-831b-8f1e32eb2502",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 17,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 4,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-24T00:33:12.018Z",
+        "modified": "2026-06-24T00:33:27.161Z"
+      }
+    ],
+    "created": "2026-06-24T00:33:10.417Z",
+    "creator": {
+      "isGuest": true,
+      "id": "XFeZaDUcWNdcimhrMNvc"
+    }
+  }
+]

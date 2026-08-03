@@ -1,0 +1,39 @@
+[
+  {
+    "id": "187fb35f-cfd1-4a3c-a9aa-3337b86f01b7",
+    "target": {
+      "source": "daoguang_1842-09-21_fujian_xx_xx_gugong112548_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2805.742160869152,574.1484798191707,225.08361812754265,1452.42636603056"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "16320735-1768-46e4-82ac-065eedfc9fe4",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 11,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 0,
+          "Error_Pathology": "Layout_Interference_Text"
+        },
+        "created": "2026-07-12T00:15:09.451Z",
+        "modified": "2026-07-12T00:15:18.481Z"
+      }
+    ],
+    "created": "2026-07-12T00:15:08.547Z",
+    "creator": {
+      "isGuest": true,
+      "id": "5ioxhBz_jNSzXqmgZMCg"
+    }
+  }
+]
