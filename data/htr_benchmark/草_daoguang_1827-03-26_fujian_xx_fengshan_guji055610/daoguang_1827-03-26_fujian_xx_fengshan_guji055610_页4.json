@@ -1,0 +1,710 @@
+[
+  {
+    "id": "9db93bcf-c81d-4fe3-967c-d9b589cd17d0",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3352.1399625192134,329.29667990871485,201.97394097222286,2322.5158420138887"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "182b6494-bcea-4c5d-b947-2bf1a4a7e89a",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 4,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:01:39.815Z",
+        "modified": "2026-06-23T23:01:51.524Z"
+      }
+    ],
+    "created": "2026-06-23T23:01:38.934Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "4a165f0a-d799-4375-9cd3-8d63aedf6fc6",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3176.146837519214,372.603164283715,164.6784027777776,2269.2321093749997"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "a7db1409-439f-4ae4-9d6c-dc42cf2abf00",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 2,
+          "Error_Pathology": "Confusion_Pairs"
+        },
+        "created": "2026-06-23T23:02:04.784Z",
+        "modified": "2026-06-23T23:02:14.727Z"
+      }
+    ],
+    "created": "2026-06-23T23:02:03.880Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "517cb341-e85f-40cf-8729-f779e2bad5a6",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3002.1368635608796,342.3793274781592,139.06654513888952,2271.353619791667"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "e1dd9845-f788-4f79-a8e5-30481226c87d",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 1,
+          "Deletion_Count": 0,
+          "Substitution_Count": 6,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Model_Omission",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:02:33.740Z",
+        "modified": "2026-06-23T23:02:52.554Z"
+      }
+    ],
+    "created": "2026-06-23T23:02:32.768Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "6f7f81bf-9e07-4388-8838-68735ecf7eec",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2785.558321894214,91.91811220038156,175.19371527777776,2540.7239496527777"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "fbc22534-e713-468e-b7b2-c51ea0b78400",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 21,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 6,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:03:08.299Z",
+        "modified": "2026-06-23T23:03:46.939Z"
+      }
+    ],
+    "created": "2026-06-23T23:03:07.243Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "0931c7e4-115a-42c7-8c9e-05be33191fbc",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2580.586594463658,338.2900392837148,165.37019965277796,2300.209236111111"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "1bc9af17-7da5-497f-a97d-c9eb35f5f35a",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Insertion_Count": 0,
+          "Deletion_Count": 2,
+          "Substitution_Count": 7,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:04:00.718Z",
+        "modified": "2026-06-23T23:04:31.487Z"
+      }
+    ],
+    "created": "2026-06-23T23:04:10.002Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "398fd2d7-cbd2-4179-af00-add85cfd8832",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2379.565795852547,329.0660809503817,163.06421006944447,2312.4771006944443"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "dfd1cdbf-1cde-4084-a7f9-fcf667b0c42d",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 0,
+          "Error_Pathology": "None"
+        },
+        "created": "2026-06-23T23:04:40.388Z",
+        "modified": "2026-06-23T23:05:01.793Z"
+      }
+    ],
+    "created": "2026-06-23T23:04:39.338Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "29d38e3b-279f-423a-9200-ffb256419b4f",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2172.7953965469915,318.78136740871497,171.7347309027782,2324.71421875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "563dd4fc-c6cd-43e7-a720-ec7fb3ea67f7",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 4,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:05:15.770Z",
+        "modified": "2026-06-23T23:05:28.650Z"
+      }
+    ],
+    "created": "2026-06-23T23:05:14.906Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "aa133250-cf83-451b-8da9-2ea4832b14d3",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1957.6765057675896,291.87168997846913,190.15271022384673,2324.351726041357"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "a5e918bd-1a31-4c43-8800-a0321f3e7073",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 0,
+          "Deletion_Count": 0,
+          "Substitution_Count": 4,
+          "Error_Pathology": "Confusion_Pairs"
+        },
+        "created": "2026-06-23T23:06:24.677Z",
+        "modified": "2026-06-23T23:06:53.410Z"
+      }
+    ],
+    "created": "2026-06-23T23:06:23.731Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "4e4a5eb2-0076-498a-9778-55f31aeb0a81",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1759.7770805391624,183.66575108927054,169.93626739671822,2439.567873263889"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "a5bb8201-1292-4484-bf2a-4dfe6464d1ca",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 1,
+          "Deletion_Count": 1,
+          "Substitution_Count": 5,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:07:09.203Z",
+        "modified": "2026-06-23T23:07:38.892Z"
+      }
+    ],
+    "created": "2026-06-23T23:07:08.336Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "1aab520a-a990-4c4a-ad10-271fb9859d95",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1558.64188339098,280.67415088894586,189.22112600323453,2341.437225200324"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "83457670-d797-4354-bce9-bba8562ac6c3",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 0,
+          "Deletion_Count": 2,
+          "Substitution_Count": 4,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:07:55.421Z",
+        "modified": "2026-06-23T23:08:11.958Z"
+      }
+    ],
+    "created": "2026-06-23T23:07:54.666Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "6a94b88e-dd91-472f-ba92-892e2fec8fc0",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1395.4853873088482,304.5284417247651,128.9090920167173,2315.029607249035"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "5ac1bc4e-af81-4eef-9946-278a66723b74",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 20,
+          "Insertion_Count": 0,
+          "Deletion_Count": 3,
+          "Substitution_Count": 6,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:08:32.096Z",
+        "modified": "2026-06-23T23:08:52.208Z"
+      }
+    ],
+    "created": "2026-06-23T23:08:30.970Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "2f1f7fde-39ae-410f-8b88-6f9e9e8e8ba1",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1182.309978551528,318.9518953333097,167.3708567984354,2295.243670152841"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "ca7db452-6a2e-4741-8655-b4aaf032f1bd",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 19,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 3,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:09:05.045Z",
+        "modified": "2026-06-23T23:09:19.078Z"
+      }
+    ],
+    "created": "2026-06-23T23:09:04.353Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "aa6bf8d2-b412-49f2-a1c2-d448ba618ed3",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:987.5328579194071,298.1057477778178,162.46465277777781,1174.778706597222"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "912388bf-7331-41bf-9f58-d3723ccb4590",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 10,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 0,
+          "Error_Pathology": "Model_Omission"
+        },
+        "created": "2026-06-23T23:09:33.795Z",
+        "modified": "2026-06-23T23:09:43.234Z"
+      }
+    ],
+    "created": "2026-06-23T23:09:32.862Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "fd87a1e6-981d-4e5d-9359-846e9acec8d6",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:807.2728846812058,177.25374940058268,164.87133608542365,2441.8612605300123"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "32671554-ed59-45ba-880c-33797301c245",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 21,
+          "Insertion_Count": 0,
+          "Deletion_Count": 2,
+          "Substitution_Count": 3,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:09:53.853Z",
+        "modified": "2026-06-23T23:10:26.136Z"
+      }
+    ],
+    "created": "2026-06-23T23:09:52.992Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "535938a1-773e-49c0-abe0-ba505581b29d",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:630.5502971555183,347.3924318055955,151.01157118055573,2285.0050781249997"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "dca52428-ccfe-4a47-a515-0cf14511dc9f",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 22,
+          "Insertion_Count": 2,
+          "Deletion_Count": 4,
+          "Substitution_Count": 8,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure",
+            "Model_Omission"
+          ]
+        },
+        "created": "2026-06-23T23:10:35.905Z",
+        "modified": "2026-06-23T23:10:55.293Z"
+      }
+    ],
+    "created": "2026-06-23T23:10:35.072Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "a0001056-dc69-4d49-a894-fb92cffa10e7",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:464.1193422944074,303.76310888892885,147.87542534722206,2310.217230902778"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "4b9543ef-f975-4deb-abf4-bf3268e3b621",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 21,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 4,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:11:10.801Z",
+        "modified": "2026-06-23T23:11:25.415Z"
+      }
+    ],
+    "created": "2026-06-23T23:11:09.303Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "91c3405b-fbc9-47de-a7c7-244f7b03a265",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:264.02093951662937,311.31138145837326,168.70619791666678,2325.6519878472222"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "186ff0ab-8f11-4e0d-a3b1-c61736303eed",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 18,
+          "Insertion_Count": 0,
+          "Deletion_Count": 1,
+          "Substitution_Count": 3,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:11:41.475Z",
+        "modified": "2026-06-23T23:11:53.495Z"
+      }
+    ],
+    "created": "2026-06-23T23:11:40.454Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  },
+  {
+    "id": "34daf089-3e8a-4c72-84da-8b92f5b40e6f",
+    "target": {
+      "source": "daoguang_1827-03-26_fujian_xx_fengshan_guji055610_页4.jpg",
+      "type": "SpecificResource",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:44.04490653051844,322.82595611115124,179.72882812499992,2333.492352430555"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "id": "d24ba94c-60d0-4e33-b2df-cecd4359f441",
+        "type": "Dataset",
+        "purpose": "classifying",
+        "source": "Text_Line",
+        "properties": {
+          "Line_Status": "Matched",
+          "N_total_line": 20,
+          "Insertion_Count": 0,
+          "Deletion_Count": 3,
+          "Substitution_Count": 7,
+          "Error_Pathology": [
+            "Confusion_Pairs",
+            "Segmentation_Failure"
+          ]
+        },
+        "created": "2026-06-23T23:12:03.650Z",
+        "modified": "2026-06-23T23:12:41.818Z"
+      }
+    ],
+    "created": "2026-06-23T23:12:02.813Z",
+    "creator": {
+      "isGuest": true,
+      "id": "VlEE06dCM85u1DYMqNmD"
+    }
+  }
+]
